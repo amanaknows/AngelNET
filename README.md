@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-=======
 # AngelNET
 AngelNET documentation
 
@@ -81,7 +79,7 @@ MULTI-VERSAL LICENSE
 
 
 
->>>>>>> e293b9d549991246aecd475472c39b07b3225d78
+
 # AngelNET Secure Terminal v3.0
 
 ### 🧬 Built by Angelica | Core Security + Memory + Profile Access
